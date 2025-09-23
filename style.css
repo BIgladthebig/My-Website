@@ -1,7 +1,19 @@
 p {
-    color: #cf6215
+    color: #cf6215;
+    line-height: 1.1;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
 }
 h1 {
-    color:#b63a3a;
-    text-align: center
+    color: #b63a3a;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-weight: 1500
+}
+li{
+    color: #d02921
+}
+tr{
+    color: #cf6215
 }
