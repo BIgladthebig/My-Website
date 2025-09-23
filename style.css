@@ -1,8 +1,12 @@
+body{
+    font-family: "Oswald", sans-serif;
+}
 p {
     color: #cf6215;
     line-height: 1.1;
     letter-spacing: 0.5px;
     word-spacing: 2px;
+    
 }
 h1 {
     color: #b63a3a;
