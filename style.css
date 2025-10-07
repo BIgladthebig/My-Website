@@ -82,6 +82,8 @@ tr {
 
 /* default - mobile/phone */
 .navbutton {
+    width: 100%;
+    margin: -4px
 }
 
 /* tablet and up */
