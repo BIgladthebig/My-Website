@@ -63,3 +63,17 @@ tr {
     margin-right: auto;
     padding: 10px;
 }
+.navbar {
+    text-align: center;
+    width: 100%;
+}
+
+.navbutton {
+    background-color: bisque;
+    border: 1px dashed #444 ;
+    
+    display: inline-block;
+    width: 150px;
+    margin:10px;
+    padding: 10px;
+}
