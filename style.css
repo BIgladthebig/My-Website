@@ -74,6 +74,8 @@ tr {
     
     display: inline-block;
     width: 150px;
+    height: 60px;
+    vertical-align: middle;
     margin:10px;
     padding: 10px;
 }
