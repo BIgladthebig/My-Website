@@ -18,7 +18,7 @@ h1 {
     text-align: center;
     text-decoration: underline;
     text-transform: capitalize;
-    font-weight: 1500;
+    font-weight: 1000;
 }
 li {
     color: #d02921;
@@ -100,4 +100,10 @@ tr {
         width: 150px;
         margin: 10px;
     }
+}
+.image {
+    text-align: center
+}
+.table, th, td {
+  border: 1px solid;
 }
