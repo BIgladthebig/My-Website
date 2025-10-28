@@ -21,10 +21,10 @@ h1 {
     font-weight: 1000;
 }
 li {
-    color: #d02921;
+    color: #b63a3a;
 }
 tr {
-    color: #cf6215;
+    color: #b63a3a;
 }
 .highlight {
     color: #3200ff;
@@ -105,5 +105,5 @@ tr {
     text-align: center
 }
 .table, th, td {
-  border: 1px  ;
+  border: 1px solid;
 }
